@@ -1,4 +1,4 @@
-# Javascript Saat ve Karşılama
+# Saat ve Karşılama
 
 ## Görev
 
