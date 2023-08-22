@@ -16,8 +16,12 @@ Hepinize başarılar ve kolay gelsin.
 
 ## Ekran Görüntüleri
 
+### All
 ![asianKitchenAll](https://github.com/yusufcandmrz/javascript-tasks/assets/93606208/dc442e06-c01e-4606-a7cf-37107dd5ea98)
 ![asianKitchenAll2](https://github.com/yusufcandmrz/javascript-tasks/assets/93606208/4c0a7c06-22fb-4dc0-8df4-040427da40c9)
+### Korea
 ![asianKitchenKorea](https://github.com/yusufcandmrz/javascript-tasks/assets/93606208/97bbaf7b-8d64-46f1-b176-11915766f2da)
+### Japan
 ![asianKitchenJapan](https://github.com/yusufcandmrz/javascript-tasks/assets/93606208/386b6776-6891-4225-a18a-4d343c583892)
+### China
 ![asianKitchenChina](https://github.com/yusufcandmrz/javascript-tasks/assets/93606208/52bed305-3636-45ca-aea1-1b90ce29d554)
