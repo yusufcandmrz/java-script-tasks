@@ -12,7 +12,7 @@ chinaButtonDOM.addEventListener("click", handleButton)
 let items = menu.copyWithin();
 handleItem(items);
 
-function handleItem(array) {
+function handleItem() {
 
     for (let index = 0; index < items.length; index++) {
 
