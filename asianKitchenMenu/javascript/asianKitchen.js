@@ -1,8 +1,19 @@
 let menuDOM = document.querySelector("#menu");
-let allButtonDOM = document.querySelector("#all-button")
-let koreaButtonDOM = document.querySelector("#korea-button")
-let japanButtonDOM = document.querySelector("#japan-button")
-let chinaButtonDOM = document.querySelector("#china-button")
+let buttonContainerDOM = document.querySelector("#button-container");
+
+let allButtonDOM = document.createElement("button")
+allButtonDOM.textContent = "All"
+let koreaButtonDOM = document.createElement("button")
+koreaButtonDOM.textContent = "Korea"
+let japanButtonDOM = document.createElement("button")
+japanButtonDOM.textContent = "Japan"
+let chinaButtonDOM = document.createElement("button")
+chinaButtonDOM.textContent = "China"
+
+buttonContainerDOM.append(allButtonDOM)
+buttonContainerDOM.append(koreaButtonDOM)
+buttonContainerDOM.append(japanButtonDOM)
+buttonContainerDOM.append(chinaButtonDOM)
 
 allButtonDOM.addEventListener("click", handleButton)
 koreaButtonDOM.addEventListener("click", handleButton)
